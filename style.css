@@ -1,0 +1,13 @@
+body{
+    background-image: radial-gradient(grey, green, skyblue, orange);
+}
+.context.fillStyle{
+    background: linear-gradient(to top left, red, blue, green, yellow);
+}
+.clock-style{
+    margin-left: 350px;
+    margin-top: 5px;
+    border: 30px black;
+    border-style: solid;
+    border-radius: 50%;
+}
